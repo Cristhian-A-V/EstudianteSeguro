@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSecureStudent", "ApiSecureStudent\ApiSecureStudent.csproj", "{5C80AFD7-FBAD-46FE-9577-D7A5787338BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtEstudianteSeguro.Test", "UtEstudianteSeguro.Test\UtEstudianteSeguro.Test.csproj", "{F1DE8EA1-B2B9-4041-8610-6CAD5FD5FA84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5C80AFD7-FBAD-46FE-9577-D7A5787338BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C80AFD7-FBAD-46FE-9577-D7A5787338BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C80AFD7-FBAD-46FE-9577-D7A5787338BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1DE8EA1-B2B9-4041-8610-6CAD5FD5FA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DE8EA1-B2B9-4041-8610-6CAD5FD5FA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DE8EA1-B2B9-4041-8610-6CAD5FD5FA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DE8EA1-B2B9-4041-8610-6CAD5FD5FA84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
